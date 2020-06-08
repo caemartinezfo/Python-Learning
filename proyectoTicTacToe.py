@@ -74,4 +74,5 @@ while True:
     DrawMove(board)
     VictoryFor(board)
 
+print(VictoryFor(board))
 
