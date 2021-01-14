@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 board = [[1,2,3],[4,"X",6],[7,8,9]]
 
 
